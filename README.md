@@ -21,7 +21,7 @@ This Task Management App allows users to create, manage, and reflect on tasks wi
    - The Home screen lists all tasks categorized by their priority.
    - Each task displays its name, and if not created today, its creation date.
    - Users can navigate to the task detail view by tapping on a task.
-   - Two floating action buttons at the bottom allow for navigation to the Deleted Tasks view and the New Task creation view.
+   - Two floating action buttons at the bottom allow for navigation to the completed Tasks view and the New Task creation view.
 
 2. **Task Detail View**
    - Displays detailed information about a task, including a section for reflections if the task is completed.

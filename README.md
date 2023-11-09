@@ -35,16 +35,6 @@ This Task Management App allows users to create, manage, and reflect on tasks wi
 4. **New Task Creation View**
    - A simple form for creating new tasks, specifying the task name, description, and priority level.
 
-## Installation
-
-Ensure you have Xcode installed on your Mac. Clone the repository, open the project in Xcode, and run the app in the simulator or on your device.
-
-```bash
-git clone https://github.com/your-repository-url/TaskManagementApp.git
-cd TaskManagementApp
-open TaskManagementApp.xcodeproj
-```
-
 ## Dependencies
 
 - SwiftUI for UI.
